@@ -3,5 +3,6 @@ Rencana Nyoba Bikin Web
 - Belajar Programming
  * Belajar Mengenal Istilah-istilah di Programming
  * Belajar Coding
+   ^ Belajar Javascript
 - Mengaplikasikan Hasil Belajar
 - Nyoba Bikin Web Dengan Ilmu Yang Ada
